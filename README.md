@@ -17,4 +17,3 @@
 
 [![Gaz's Activity](https://activity-graph.herokuapp.com/graph?username=gazirovich&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Gaz's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gazirovich)](https://github.com/anuraghazra/github-readme-stats)
