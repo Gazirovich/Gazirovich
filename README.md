@@ -15,6 +15,6 @@
 
 ![Gaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gazirovich&show_icons=true&theme=radical)
 
-[!Gaz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazirovich&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true)
+[![Gaz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazirovich&theme=redical)
 
 [![Gaz's Activity](https://activity-graph.herokuapp.com/graph?username=gazirovich&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
