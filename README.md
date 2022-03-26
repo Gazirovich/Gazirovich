@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gazirovich&show_icons=true&theme=radical)
 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
